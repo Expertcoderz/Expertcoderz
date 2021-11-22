@@ -30,4 +30,6 @@
   - [💥] Sandbox destruction for fun
   - [📄] Writing stuff with proper format
  - Contributing to the open source [Adonis](https://github.com/Sceleratis/Adonis) admin system for ROBLOX games. Also, I wrote a comprehensive setup guide for Adonis on the DevForum which can be found [here](https://devforum.roblox.com/t/1535122).
+ - Owning several ROBLOX groups, including [this](https://www.roblox.com/groups/2847305).
+ - Being in several ROBLOX communities, including [Pinewood Builders](https://www.roblox.com/groups/159511).
  - [██████████████████████████████████████████████████████████████████](http://scpfoundation.org/)
