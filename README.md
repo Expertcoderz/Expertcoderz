@@ -31,7 +31,7 @@
 - Introduced ``!profile`` as well as its predecessor, ``:inspect`` (my first ever contribution)
 - Introduced the new ``!serverinfo`` UI
 - ``:perfstats``
-- Designed the tabbed credit list UI (``!credits``)
+- Designed the tabbed credits list UI (``!credits``)
 - Added the help button and command count in the command list window titlebar
 - Introduced Material UI icons (used for the top-left corner of window UIs)
 - ``!inspectavatar``
@@ -45,6 +45,7 @@
 - ``:teams``
 - ``!tshirt`` and ``:tshirt``
 - ``!pnum`` as a player-level command
+- ``!notifyme``
 - Expanded ``:explode``, ``:ff`` and ``:sword`` with more argument options
 - Aero theme
 - some audios for ``!wat``
