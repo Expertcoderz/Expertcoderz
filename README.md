@@ -17,7 +17,7 @@
 
 ![LUA](https://img.shields.io/badge/Luau-2C2D72?style=for-the-badge&logo=lua&logoColor=white) _(that's all I know)_
 
-**Roblox:** [@Expertcoder2](https://www.roblox.com/users/644946329/profile) | **Discord:** Expertcoderz#9517 | **Foundation:** [IA-[█████████████████](http://scpfoundation.org/)]
+**Roblox:** [@Expertcoder2](https://www.roblox.com/users/644946329/profile) • **Discord:** Expertcoderz#9517 • **Foundation:** [IA-[█████████████████](http://scpfoundation.org/)]
 
 (Not for hire or commission.)
 
