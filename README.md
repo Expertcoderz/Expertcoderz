@@ -32,8 +32,9 @@
 - Introduced the new ``!serverinfo`` UI
 - ``:perfstats``
 - Designed the tabbed credits list UI (``!credits``)
-- Added the help button and command count in the command list window titlebar
 - Introduced Material UI icons (used for the top-left corner of window UIs)
+- Added the help button and command count in the command list window titlebar
+- ``!cmdinfo``
 - ``!inspectavatar``
 - ``!onlinefriends``
 - ``!paint``
