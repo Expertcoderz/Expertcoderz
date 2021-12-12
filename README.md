@@ -28,29 +28,4 @@
   - [🛠️] Building (personal projects only)
 
 ### Adonis Contribution List
-- Introduced ``!profile`` as well as its predecessor, ``:inspect`` (my first ever contribution)
-- Introduced the new ``!serverinfo`` UI
-- ``:perfstats``
-- Designed the tabbed credits list UI (``!credits``)
-- Introduced Material UI icons (used for the top-left corner of window UIs)
-- Added the help button and command count in the command list window titlebar
-- ``:cmdinfo``
-- ``!inspectavatar``
-- ``!onlinefriends``
-- ``!paint``
-- ``!getpremium`` and ``:promptpremiumpurchase``
-- ``!rand``
-- ``!materials``
-- ``!brickcolors``
-- ``:rbxnotify``
-- ``:teams``
-- ``!tshirt`` and ``:tshirt``
-- ``!pnum`` as a player-level command
-- ``!notifyme``
-- Expanded ``:explode``, ``:ff`` and ``:sword`` with more argument options
-- Aero theme
-- some audios for ``!wat``
-- Cleaned up some old code and introduced Luau features such as type annotation & compound assignments
-- Random UI and code improvements
-- Roblox Studio icons on the 'Get Loader' and 'Get Source' buttons in the userpanel/info tab
-- a lot other contributions that I left out
+too much
