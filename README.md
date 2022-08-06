@@ -1,6 +1,9 @@
-![LUA](https://img.shields.io/badge/Luau-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-
 *"There's no perfect code, but there's always better code."*
+
+## Languages
+
+![LUA](https://img.shields.io/badge/Luau-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![MARKDOWN](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## About
 
@@ -19,3 +22,5 @@
 My DMs are always open; to contact me for any matter, you may join the [Discord server of Epix Incorporated](https://discord.gg/H5RvTP3) and send me a DM therefrom. Note: depending on availability and urgency, I may not respond to all DMs immediately.
 
 I am *not* for hire nor for commission; all my work is strictly voluntary and non-profit-oriented.
+
+<hr>
