@@ -1,31 +1,19 @@
-<h2 align="center">Stats</h2>
-<a href="https://github.com/Expertcoderz">
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Expertcoderz" alt="Profile Views Count">
-  </p>
-</a>
+![LUA](https://img.shields.io/badge/Luau-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
-<p align="center">
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=100%;">
-      <img src="https://github-readme-stats.vercel.app/api/?username=Expertcoderz&title_color=00fff2&text_color=00fff2&show_icons=true&bg_color=00000000&hide_border=true&icon_color=00fff2&hide_title=false&count_private=true&hide=stars" />
-    </td>
-  </tr>
-</table>
-</p>
+## About
 
-![LUA](https://img.shields.io/badge/Luau-2C2D72?style=for-the-badge&logo=lua&logoColor=white) _(that's all I know)_
+* I am a proficient and perfectionistic developer on Roblox; mainly in [Luau](https://luau-lang.org/) scripting, building and UI.
 
-**Roblox:** [@Expertcoderz \[644946329\]](https://www.roblox.com/users/644946329/profile) • **Discord:** Expertcoderz#9517 • **Foundation:** [IA-[█████████████████](http://scpfoundation.org/)]
+* Contributor for [Adonis](https://github.com/Epix-Incorporated/Adonis) since March 2021; currently a community maintainer and active developer.
 
-(Not for hire or commission.)
+* Much of my current work is experimental and closed-source.
 
-### What I do:
-- Development on the [ROBLOX](https://www.roblox.com) game platform, for personal projects as well as contributing to the open source [Adonis](https://github.com/Sceleratis/Adonis) admin system for ROBLOX games. Also, I wrote a comprehensive setup guide for Adonis on the DevForum which can be found [here](https://devforum.roblox.com/t/1535122).
-  - [📜] Luau scripting
-  - [📱] UI design
-  - [🛠️] Building (personal projects only)
+## Contact
 
-### Adonis Contribution List
-too much
+* **Roblox:** [@Expertcoderz](https://www.roblox.com/users/644946329/profile)
+
+* **Discord:** Expertcoderz#9517
+
+My DMs are always open; to contact me for any matter, you may join the [Discord server of Epix Incorporated](https://discord.gg/H5RvTP3) and send me a DM therefrom. Note: depending on availability and urgency, I may not respond to all DMs immediately.
+
+I am *not* for hire nor commission.
