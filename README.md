@@ -5,6 +5,8 @@
 ![LUA](https://img.shields.io/badge/Luau-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![MARKDOWN](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
+Currently learning Python as well.
+
 ## About
 
 * I am a proficient and perfectionistic solo developer on Roblox; mainly in [Luau](https://luau-lang.org/) scripting, building and UI.
@@ -14,6 +16,8 @@
 * Much of my current work is experimental and closed-source.
 
 ## Contact
+
+* **Email:** expertcoderzx@gmail.com
 
 * **Roblox:** [@Expertcoderz](https://www.roblox.com/users/644946329/profile)
 
