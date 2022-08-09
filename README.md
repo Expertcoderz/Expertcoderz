@@ -2,10 +2,8 @@
 
 ## Languages
 
-![LUA](https://img.shields.io/badge/Luau-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![MARKDOWN](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+Luau • AutoHotkey • HTML • CSS • Markdown
 
-Currently learning Python as well.
 
 ## About
 
@@ -14,6 +12,7 @@ Currently learning Python as well.
 * Contributor for [Adonis](https://github.com/Epix-Incorporated/Adonis) since March 2021; currently a community maintainer and active developer.
 
 * Much of my current work is experimental and closed-source.
+
 
 ## Contact
 
