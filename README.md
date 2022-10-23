@@ -2,7 +2,7 @@
 
 ## Languages
 
-[AutoHotkey](https://www.autohotkey.com/) • [CSS](https://www.w3.org/TR/CSS/#css) • [HTML](https://html.spec.whatwg.org/) • [Lua](http://www.lua.org/) • [Luau](https://luau-lang.org/) • [Markdown](https://daringfireball.net/projects/markdown/) • [Python](https://www.python.org/) • [English](https://en.wikipedia.org/wiki/English_language) (preferred) • some other languages
+[AutoHotkey](https://www.autohotkey.com/) • [CSS](https://www.w3.org/TR/CSS/#css) • [HTML](https://html.spec.whatwg.org/) • [Lua](http://www.lua.org/) • [Luau](https://luau-lang.org/) • [Markdown](https://daringfireball.net/projects/markdown/) • [Python](https://www.python.org/) • [English](https://en.wikipedia.org/wiki/English_language) • some other languages
 
 
 ## About
@@ -11,7 +11,7 @@
 
 * Contributor for [Adonis](https://github.com/Epix-Incorporated/Adonis) since March 2021; currently a community maintainer and developer.
 
-* Much of my current and past work is experimental and closed-source.
+* Most of my current development projects are closed source (and made to be dogfooded).
 
 
 ## Contact
